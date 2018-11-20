@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Vous n'aurez pas tous les points avec ça.
+
 int main() {
 	printf("Exercise 1 : Tout premier pas\n");
 	char a = '1';
