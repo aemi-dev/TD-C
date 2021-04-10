@@ -1,3 +1,3 @@
-# C Languages Exercises Solutions
+# C Language Exercise Solutions
 
-C Languages Exercises Solutions for University of Evry, License years 2016 to 2018.
+C Language Exercise Solutions for University of Evry, License years 2016 to 2018.
